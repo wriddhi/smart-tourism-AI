@@ -1,1 +1,1 @@
-# smart-tourism-AI
+TOURISM SMARTBOT PROJECT
